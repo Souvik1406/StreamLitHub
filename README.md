@@ -11,7 +11,7 @@ In this app I have three great catches for all the readers.
 ##### 3) Toogle Switch - With an awesome and easier way with pure logic and no special JavaScript
 ##### 4) PWA creation 
 
-<br> For The Live Version Of The App : https://app.netlify.com/sites/streamlithubofsouvikroy/settings/general <br>
+<br> For The Live Version Of The App : https://streamlithubbysouvikroy.netlify.app/ <br>
 
 
 ## Thats All Folks....Be sure to star this repository
